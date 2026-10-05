@@ -16,23 +16,23 @@ This repository contains AWS Zero To Pro Course Materials
 <!---TOC-START--->
 ## Table of Content
 
-  * [**Day 1: Introduction to AWS**](./Day01/README.md)
+  * [**Day 1: Introduction to AWS**](./Day1/README.md)
 
-  * [**Day 2: IAM Basics**](./Day02/README.md)
+  * [**Day 2: IAM Basics**](./Day2/README.md)
 
-  * [**Day 3: Amazon S3**](./Day03/README.md)
+  * [**Day 3: Amazon S3**](./Day3/README.md)
 
-  * [**Day 4: EC2 Instances**](./Day04/README.md)
+  * [**Day 4: EC2 Instances**](./Day4/README.md)
 
-  * [**Day 5: AWS CLI**](./Day05/README.md)
+  * [**Day 5: AWS CLI**](./Day5/README.md)
 
-  * [**Day 6: CloudWatch Basics**](./Day06/README.md)
+  * [**Day 6: CloudWatch Basics**](./Day6/README.md)
 
-  * [**Day 7: Elastic Load Balancer (ELB)**](./Day07/README.md)
+  * [**Day 7: Elastic Load Balancer (ELB)**](./Day7/README.md)
 
-  * [**Day 8: Auto Scaling**](./Day08/README.md)
+  * [**Day 8: Auto Scaling**](./Day8/README.md)
 
-  * [**Day 9: RDS Basics**](./Day09/README.md)
+  * [**Day 9: RDS Basics**](./Day9/README.md)
 
   * [**Day 10: Lambda Functions**](./Day10/README.md)
 
